@@ -93,5 +93,3 @@
 </a>
 </p>
 -->
-
-# Made with :purple_heart: using components from [Readme components](https://github.com/mohan-singh5)
