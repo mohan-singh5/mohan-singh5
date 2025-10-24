@@ -48,7 +48,8 @@ I love solving complex UI problems, mentoring developers, and creating clean, us
   <a href="#"><img src="https://readme-components.vercel.app/api?component=linearprogress&skill=Tailwind%20CSS&value=85&design=candy&fill=38bdf8&text=none" /></a>
   <a href="#"><img src="https://readme-components.vercel.app/api?component=linearprogress&skill=Styled-Components&value=80&design=candy&fill=ff69b4&text=none" /></a>
   <a href="#"><img src="https://readme-components.vercel.app/api?component=linearprogress&skill=JavaScript(ES6%2B)&value=85&design=candy&fill=f6df1c&text=none" /></a>
-  <a href="#"><img src="https://readme-components.vercel.app/api?component=linearprogress&skill=HTML%20%26%20CSS&value=90&design=candy&fill=E44D26&text=none" /></a>
+  <a href="#"><img src="https://readme-components.vercel.app/api?component=linearprogress&skill=HTML&value=95&design=candy&fill=E44D26&text=none" /></a>
+    <a href="#"><img src="https://readme-components.vercel.app/api?component=linearprogress&skill=CSS&value=95&design=candy&fill=E44D74&text=none" /></a>
 </p>
 
 ---
