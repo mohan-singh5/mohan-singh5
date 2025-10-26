@@ -15,13 +15,11 @@
 
 ## 🧠 About Me  
 
-Frontend Developer with **3+ years of experience** building modern, responsive, and high-performance web applications.  
-I specialize in **React.js**, **Next.js**, **TypeScript**, and **Redux Toolkit**, focusing on scalability, UI/UX, and maintainable code.  
-I love solving complex UI problems, mentoring developers, and creating clean, user-friendly interfaces.  
+Frontend Developer with 3+ years of experience building modern, responsive, and high-performance web applications. Skilled in React.js, Next.js, TypeScript, and state management (Redux Toolkit). Strong expertise in UI/UX optimization, API integration, authentication, routing, and cross-browser responsive design. Experienced in mentoring junior developers and delivering scalable solutions that enhance performance, SEO, and user experience.  
 
 ---
 
-## ⚙️ Tech Stack I Use Daily  
+## ⚙️ Skills
 
 <p align="left">  
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=auto&logo=react&animation=spin&svgfill=15d8fe" /></a>
@@ -38,51 +36,33 @@ I love solving complex UI problems, mentoring developers, and creating clean, us
 
 ---
 
-## 💻 Frontend Skills  
-
-<p align="left">
-  <a href="#"><img src="https://readme-components.vercel.app/api?component=linearprogress&skill=React.js&value=90&design=candy&fill=15d8fe&text=none" /></a>
-  <a href="#"><img src="https://readme-components.vercel.app/api?component=linearprogress&skill=Next.js&value=85&design=candy&fill=000000&text=none" /></a>
-  <a href="#"><img src="https://readme-components.vercel.app/api?component=linearprogress&skill=TypeScript&value=85&design=candy&fill=2d79c7&text=none" /></a>
-  <a href="#"><img src="https://readme-components.vercel.app/api?component=linearprogress&skill=Redux%20Toolkit&value=80&design=candy&fill=764abc&text=none" /></a>
-  <a href="#"><img src="https://readme-components.vercel.app/api?component=linearprogress&skill=Tailwind%20CSS&value=85&design=candy&fill=38bdf8&text=none" /></a>
-  <a href="#"><img src="https://readme-components.vercel.app/api?component=linearprogress&skill=Styled-Components&value=80&design=candy&fill=ff69b4&text=none" /></a>
-  <a href="#"><img src="https://readme-components.vercel.app/api?component=linearprogress&skill=JavaScript(ES6%2B)&value=85&design=candy&fill=f6df1c&text=none" /></a>
-  <a href="#"><img src="https://readme-components.vercel.app/api?component=linearprogress&skill=HTML&value=95&design=candy&fill=E44D26&text=none" /></a>
-    <a href="#"><img src="https://readme-components.vercel.app/api?component=linearprogress&skill=CSS&value=95&design=candy&fill=E44D74&text=none" /></a>
-</p>
-
----
-
 ## 🧩 Featured Projects  
 
-- 🧵 **Lovoj Website** – Bespoke clothing marketplace (Next.js, React, TypeScript, Tailwind, Styled-components, JWT)  
-- 🧭 **Super Admin Dashboard** – Role-based access dashboard for managing stylists, admins, and content (Next.js, Redux Toolkit, API Integration)  
-- 🎭 **Prank Caller** – Interactive prank call app with credit system and history (Next.js, Redux, Tailwind)  
-- 💼 **Venturecraft** – Business presentation platform (Next.js, TypeScript, Tailwind, Figma)  
-- 💍 **Roland** – Fashion/jewelry website with multilingual support (React.js, Styled-components, APIs)  
+- 🧵 **Lovoj Website** – Bespoke clothing marketplace (React.js, Next.js, TypeScript, Tailwind, Styled-components, JWT)  
+- 🧭 **Super Admin Dashboard** – Centralized dashboard to manage website content, admin users, stylists, and operational modules with role-based access. (React.js, Next.js, TypeScript, Redux, Tailwind, API integration)  
+- 🎭 **Prank Caller** – Prank call app with credits, history, and user settings. (React.js, Next.js, Redux, Tailwind, JWT) 
+- 💼 **Venturecraft** – Business presentation platform, improved investor engagement. (Next.js, React, TypeScript, Tailwind, Figma)  
+- 💍 **Roland** – Fashion/jewelry website with multilingual support (React.js, Styled-components, APIs)
 
 ---
 
 ## 📫 Connect With Me  
 
 <p align="left">
-  <a href="https://github.com/mohan-singh5">
-    <img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/mohan-singh5" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/workformohan">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/workformohan" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
   </a>
-  <a href="mailto:workformohan17@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:workformohan17@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" />
   </a>
 </p>
 
 ---
 
-📍 **Location:** New Delhi  
-🕐 **Notice Period:** 30 Days  
-📞 **Phone:** +91-9720125830  
-📧 **Email:** workformohan17@gmail.com  
+📍 **Location:** New Delhi
+📧 **Email:** workformohan17@gmail.com
 
 ⭐ *“Turning ideas into beautiful, scalable, and high-performing web experiences.”*
