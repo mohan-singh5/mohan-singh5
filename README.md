@@ -2,13 +2,13 @@
 <h3 align="left">💻 Frontend Developer | React.js | Next.js | TypeScript | Redux Toolkit</h3>
 
 <p align="left">
-  <a href="https://github.com/mohan-singh5">
+  <a href="https://github.com/mohansingh17">
     <img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=8780399&textfill=black&fill=linear-gradient(90deg,%238EC5FC,%23E0C3FC)" alt="Stack Overflow Profile" />
   </a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/mohan-singh5">
+  <a href="https://github.com/mohansingh17">
     <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,redux,tailwind,git" />
   </a>
 </p>
@@ -52,7 +52,7 @@ Frontend Developer with 3+ years of experience building modern, responsive, and 
 ## 📫 Connect With Me  
 
 <p align="left">
-  <a href="https://github.com/mohan-singh5" target="_blank">
+  <a href="https://github.com/mohansingh17" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/workformohan" target="_blank">
