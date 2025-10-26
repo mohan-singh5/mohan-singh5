@@ -62,7 +62,7 @@ Frontend Developer with 3+ years of experience building modern, responsive, and 
 
 ---
 
-📍 **Location:** New Delhi
+📍 **Location:** New Delhi  
 📧 **Email:** workformohan17@gmail.com
 
 ⭐ *“Turning ideas into beautiful, scalable, and high-performing web experiences.”*
