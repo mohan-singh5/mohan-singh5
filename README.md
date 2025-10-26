@@ -1,15 +1,18 @@
-# Hi there 👋  
-### I'm Mohan Singh — Frontend Developer  
+<h1 align="left">Hi 👋, I'm <span style="color:#915eff;">Mohan Singh</span></h1>
+<h3 align="left">💻 Frontend Developer | React.js | Next.js | TypeScript | Redux Toolkit</h3>
 
 <p align="left">
   <a href="https://github.com/mohan-singh5">
-    <img src="https://readme-components.vercel.app/api?component=text&text=MOHAN%20SINGH" />
+    <img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=8780399&textfill=black&fill=linear-gradient(90deg,%238EC5FC,%23E0C3FC)" alt="Stack Overflow Profile" />
   </a>
 </p>
 
 <p align="left">
- <a href="https://github.com/mohan-singh5"> <img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=8780399&textfill=black&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A"> </a>
+  <a href="https://github.com/mohan-singh5">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,redux,tailwind,git" />
+  </a>
 </p>
+
 
 ---
 
@@ -62,7 +65,7 @@ Frontend Developer with 3+ years of experience building modern, responsive, and 
 
 ---
 
-📍 **Location:** New Delhi  
-📧 **Email:** workformohan17@gmail.com
+📍 **Location:** New Delhi, India  
+📧 **Email:** workformohan17@gmail.com  
 
 ⭐ *“Turning ideas into beautiful, scalable, and high-performing web experiences.”*
