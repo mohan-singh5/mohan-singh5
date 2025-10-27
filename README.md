@@ -22,20 +22,35 @@ Frontend Developer with 3+ years of experience building modern, responsive, and 
 
 ---
 
-## ⚙️ Skills
+## ⚙️ Skills  
 
-<p align="left">  
-  <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=auto&logo=react&animation=spin&svgfill=15d8fe" /></a>
-  <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=auto&logo=next.js&svgfill=000000" /></a>
-  <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=auto&logo=typescript&svgfill=2d79c7" /></a>
-  <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=auto&logo=redux&svgfill=764abc" /></a>
-  <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=auto&logo=tailwindcss&svgfill=38bdf8" /></a>
-  <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=auto&logo=styled-components&svgfill=ff69b4" /></a>
-  <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=auto&logo=bootstrap&svgfill=7952b3" /></a>
-  <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=auto&logo=javascript&svgfill=f6df1c" /></a>
-  <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=auto&logo=html5&svgfill=E44D26" /></a>
-  <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=auto&logo=css3&svgfill=1572B6" /></a>
+<p align="left">
+  <!-- Core Frontend -->
+  <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
+  <!-- State Management -->
+  <a href="#"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" /></a>
+  <!-- Styling -->
+  <a href="#"><img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Hero%20UI-000000?style=for-the-badge&logo=heroku&logoColor=white" /></a>
+  <!-- Tools -->
+  <a href="#"><img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git%2FGitHub-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Chrome%20DevTools-F4B400?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" /></a>
+  <!-- APIs & Features -->
+  <a href="#"><img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/SSR-FF4088?style=for-the-badge&logo=next.js&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/WebSockets-00BFFF?style=for-the-badge&logo=socket.io&logoColor=white" /></a>
 </p>
+
 
 ---
 
