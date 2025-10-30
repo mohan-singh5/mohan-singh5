@@ -13,12 +13,22 @@
   </a>
 </p>
 
-
----
+--- 
 
 ## 🧠 About Me  
 
-Frontend Developer with 3+ years of experience building modern, responsive, and high-performance web applications. Skilled in React.js, Next.js, TypeScript, and state management (Redux Toolkit). Strong expertise in UI/UX optimization, API integration, authentication, routing, and cross-browser responsive design. Experienced in mentoring junior developers and delivering scalable solutions that enhance performance, SEO, and user experience.  
+✨ Frontend Developer with **3+ years of experience** in building modern, responsive, and high-performance web applications.  
+
+- 🚀 Skilled in **React.js**, **Next.js**, and **TypeScript** for developing dynamic and scalable interfaces.  
+- 🧩 Experienced with **Redux Toolkit** and state management for predictable, maintainable applications.  
+- 🎨 Strong in **UI/UX optimization**, creating visually appealing and intuitive user experiences.  
+- 🔗 Hands-on with **API integration**, **authentication**, and **routing** for seamless user flows.  
+- 📱 Expert in **responsive design** and **cross-browser compatibility** for consistent performance across devices.  
+- 👨‍🏫 Mentored junior developers through **code reviews**, **knowledge sharing**, and **best practices**.  
+- ⚙️ Focused on **performance, SEO, and scalability** to deliver efficient and reliable web solutions.  
+
+💡 *I love transforming ideas into interactive digital experiences that users enjoy and remember.*
+
 
 ---
 
