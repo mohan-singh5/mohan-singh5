@@ -27,9 +27,6 @@
 - 👨‍🏫 Mentored junior developers through **code reviews**, **knowledge sharing**, and **best practices**.  
 - ⚙️ Focused on **performance, SEO, and scalability** to deliver efficient and reliable web solutions.  
 
-💡 *I love transforming ideas into interactive digital experiences that users enjoy and remember.*
-
-
 ---
 
 ## ⚙️ Skills  
